@@ -1,10 +1,10 @@
 {
-  "name": "@10up/tenup-scaffold",
+  "name": "@10up/load-more",
   "version": "1.0.0",
   "author": "10up",
   "description": "Component scaffold to use as a template for building new components.",
-  "main": "./src/tenup-scaffold.js",
-  "style": "./dist/tenup-scaffold.css",
+  "main": "./src/load-more.js",
+  "style": "./dist/load-more.css",
   "scripts": {
     "start": "npm install && npm run build",
     "build": "webpack",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/10up/tenup-scaffold.git"
+    "url": "git+https://github.com/10up/load-more.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/10up/tenup-scaffold/issues"
+    "url": "https://github.com/10up/load-more/issues"
   },
-  "homepage": "https://github.com/10up/tenup-scaffold#readme",
+  "homepage": "https://github.com/10up/load-more#readme",
   "devDependencies": {
     "@10up/eslint-config": "^1.0.6",
     "@babel/cli": "^7.0.0",

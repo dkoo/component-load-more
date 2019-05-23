@@ -1,9 +1,9 @@
 // Component Scaffold
 
-import TenUpScaffold from './tenup-scaffold';
+import LoadMore from './load-more';
 
 if ( 'object' !== typeof window.TenUp ) {
 	window.TenUp = {};
 }
 
-window.TenUp.TenUpScaffold = TenUpScaffold;
+window.TenUp.LoadMore = LoadMore;

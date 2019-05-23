@@ -1,5 +1,9 @@
 @import 'assets/core.css';
 
-.tenup-scaffold {
-
+.load-more {
+	&.loading {
+		&::before {
+			content: 'Loading...';
+		}
+	}
 }
