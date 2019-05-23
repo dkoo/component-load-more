@@ -1,9 +1,1 @@
 @import 'assets/core.css';
-
-.load-more {
-	&.loading {
-		&::before {
-			content: 'Loading...';
-		}
-	}
-}
